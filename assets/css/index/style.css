@@ -27,7 +27,7 @@ body {
     -khtml-border-radius: 16px;
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
-    border: rgb(255, 255, 255) solid 1px;
+
 }
 .buttons {
     min-width: 300px;
@@ -69,7 +69,7 @@ a.link {
     width: 10em;
     height: 10em;
     border-radius: 5.6em;
-    border: rgb(255, 255, 255) solid 2px;
+
 }
 
 .pizdec {
@@ -81,7 +81,7 @@ a.link {
 a.link:hover,
 button:hover {
     background: #fff6;
-    color: rgb(255, 255, 255);
+
 }
 
 button:active, button:focus {
