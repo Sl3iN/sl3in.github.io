@@ -1,7 +1,7 @@
 :root {
     --name: slein;
     --description: Just a student;
-    --text-color: #fff;
+    --text-color: rgb(0, 0, 0);
     --back-color: #fff3;
     --over-color: #fefefe;
     --popup-text-color: #000000;
