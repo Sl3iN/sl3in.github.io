@@ -50,7 +50,7 @@ a {
 a:hover,
 button:hover {
     background: #fff6;
-    color: blueviolet;
+    color: rgb(77, 75, 80);
 }
 
 button:active, button:focus {
